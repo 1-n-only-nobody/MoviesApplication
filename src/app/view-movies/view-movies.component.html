@@ -1,0 +1,11 @@
+<h2>Movies List</h2>
+
+<div *ngFor='let movie of movieList'>
+  <div class="card" style="width: 25rem;  float: left;">
+    <img class="card-img-top" src="{{movie.moviePoster}}" alt="" style="width: 25rem; height: 20rem;">
+    <div class="card-body">
+      <h4 class="card-title">{{movie.movieName}}</h4>
+      <p class="card-text">{{movie.movieRating}}</p>
+    </div>
+  </div>
+</div>
