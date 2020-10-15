@@ -3,19 +3,19 @@
     {
       "movieId": 111,
       "movieName": "Chandu kills chandu",
-      "moviePoster": "./assets/movie1.png",
+      "moviePoster": "./assets/images/movie1.png",
       "movieRating": 4
     },
     {
       "movieId": 222,
       "movieName": "Tandu fights tandu",
-      "moviePoster": "./assets/movie2.jpg",
+      "moviePoster": "./assets/images/movie2.jpg",
       "movieRating": 2
     },
     {
       "movieId": 333,
       "movieName": "Bandu ko kuchh nahi aata",
-      "moviePoster": "./assets/movie3.jpg",
+      "moviePoster": "./assets/images/movie3.jpg",
       "movieRating": 5
     }
   ]
